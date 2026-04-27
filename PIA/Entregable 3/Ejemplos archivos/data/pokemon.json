@@ -1,0 +1,10 @@
+{
+    "nombre": "Pikachu",
+    "tipo": "El\u00e9ctrico",
+    "nivel": 25,
+    "movimientos": [
+        "Impactrueno",
+        "Placaje",
+        "Ataque R\u00e1pido"
+    ]
+}
